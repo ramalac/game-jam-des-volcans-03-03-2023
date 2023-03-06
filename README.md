@@ -3,7 +3,7 @@
 
 
 **Date :** 03-05 mars 2023   
-**Thème :** Construire pour détruire !
+**Thème :** Construire pour détruire !  
 **Nom du jeu :**  
 **Type de jeu :** 
 
@@ -39,9 +39,9 @@ Buffet avec pizza :
 
 ### Samedi
 #### Petit-déjeuner 
-Pain au chocolat
-Corissant
-Brioche
+Pain au chocolat  
+Croissant  
+Brioche  
 
 Boison :
 * Café 
@@ -82,9 +82,9 @@ Buffet :
 
 ### Dimanche 
 #### Petit déjeuné 
-Pain au chocolat
-Corissant
-Brioche
+Pain au chocolat  
+Croissant  
+Brioche  
 
 Boison :
 * Café 
@@ -107,17 +107,17 @@ Boison :
 * Pain  
 
 #### Repas du soir 
-
+Super petits fours et autres canapés sucrées et salés !
 
 ---
 ## Évènements divers
-
+Gitlab Isima porté disparu dimanche.  
 
 ---
 ## Objectifs
 
+- [Avoir un jeu qui marche]   
+- [Survivre aux bugs fourbes de Valentin]   
+- [Survivre à l'ode* heu la chaleur dans la salle]  
 - [ ]   
-- [ ]   
-- [ ]  
-- [ ]   
-- [ ]  
+- [Etre un super loulou !]  
